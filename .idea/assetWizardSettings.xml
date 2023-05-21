@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WizardSettings">
+    <option name="children">
+      <map>
+        <entry key="imageWizard">
+          <value>
+            <PersistentState>
+              <option name="children">
+                <map>
+                  <entry key="imageAssetPanel">
+                    <value>
+                      <PersistentState>
+                        <option name="children">
+                          <map>
+                            <entry key="launcher">
+                              <value>
+                                <PersistentState>
+                                  <option name="children">
+                                    <map>
+                                      <entry key="foregroundImage">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="scalingPercent" value="69" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                    </map>
+                                  </option>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="backgroundAssetType" value="COLOR" />
+                                      <entry key="backgroundColor" value="000000" />
+                                      <entry key="backgroundLayerName" value="ic_launcher_background_2" />
+                                      <entry key="foregroundImage" value="C:\Users\Eldad\AndroidStudioProjects\LedSkate\Logo Designes\Final Images\PCB Skate.png" />
+                                      <entry key="foregroundLayerName" value="ic_launcher_foreground_2" />
+                                      <entry key="generateRoundIcon" value="false" />
+                                      <entry key="generateWebIcon" value="false" />
+                                      <entry key="outputName" value="ic_launcher_pcb_skate_large" />
+                                      <entry key="showSafeZone" value="false" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                            <entry key="notification">
+                              <value>
+                                <PersistentState>
+                                  <option name="children">
+                                    <map>
+                                      <entry key="image">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="paddingPercent" value="-5" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                      <entry key="text">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="paddingPercent" value="-10" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                      <entry key="textAsset">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="fontFamily" value="Arial" />
+                                                <entry key="text" value="hello" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                    </map>
+                                  </option>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="assetType" value="IMAGE" />
+                                      <entry key="imageAsset" value="C:\Users\Eldad\AndroidStudioProjects\LedSkate\Logo Designes\PCB Skate Transparent.png" />
+                                      <entry key="outputName" value="ic_pcb_skate" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                          </map>
+                        </option>
+                      </PersistentState>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </PersistentState>
+          </value>
+        </entry>
+        <entry key="vectorWizard">
+          <value>
+            <PersistentState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
